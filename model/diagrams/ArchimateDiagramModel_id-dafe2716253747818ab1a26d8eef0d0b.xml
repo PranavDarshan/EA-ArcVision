@@ -143,16 +143,16 @@
           href="CompositionRelationship_id-d289f5d7d5cd4c04b86291ecb9ade8b9.xml#id-d289f5d7d5cd4c04b86291ecb9ade8b9"/>
     </sourceConnections>
     <bounds
-        x="126"
+        x="120"
         y="216"
-        width="601"
+        width="613"
         height="119"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9f61d236bf7247acb310122cf5743df0"
         targetConnections="id-abd5e2be70944a8f9e316a320a6ff7d0">
       <bounds
-          x="12"
+          x="18"
           y="36"
           width="120"
           height="55"/>
@@ -165,7 +165,7 @@
         id="id-2f94b46c9db84e22842b10ac7558a893"
         targetConnections="id-0ff9a99d91e249448c56cb88bfdc9957">
       <bounds
-          x="168"
+          x="174"
           y="36"
           width="120"
           height="55"/>
@@ -178,7 +178,7 @@
         id="id-65fdfecd3dad4f22b41cbb60dd4929a9"
         targetConnections="id-2f49fce771ed4cf6b610ae2a14f15614">
       <bounds
-          x="312"
+          x="318"
           y="36"
           width="120"
           height="55"/>
@@ -191,7 +191,7 @@
         id="id-088f3507717340afbd2ebbbf9f168185"
         targetConnections="id-7b3c22b34fa64f0a8d48d5c247c6657f">
       <bounds
-          x="456"
+          x="462"
           y="36"
           width="120"
           height="55"/>
@@ -225,16 +225,16 @@
           href="CompositionRelationship_id-df4fab3a81674e92bff78535e2ae554c.xml#id-df4fab3a81674e92bff78535e2ae554c"/>
     </sourceConnections>
     <bounds
-        x="126"
+        x="120"
         y="348"
-        width="601"
+        width="613"
         height="98"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-11b75f38e756446db92c1b1401c786c7"
         targetConnections="id-09b3a57887d948768c391b62148b29a9">
       <bounds
-          x="120"
+          x="126"
           y="36"
           width="120"
           height="55"/>
@@ -247,7 +247,7 @@
         id="id-eee58bef3d8d4caa8a107b74bfa3f67c"
         targetConnections="id-12a1841546684024be56222c828e55c4">
       <bounds
-          x="336"
+          x="342"
           y="36"
           width="120"
           height="55"/>
