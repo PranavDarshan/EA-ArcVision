@@ -626,10 +626,10 @@
           href="FlowRelationship_id-10239953b87e4de8b64b9e3926603c58.xml#id-10239953b87e4de8b64b9e3926603c58"/>
     </sourceConnections>
     <bounds
-        x="124"
-        y="181"
-        width="88"
-        height="48"/>
+        x="96"
+        y="168"
+        width="132"
+        height="84"/>
     <archimateElement
         xsi:type="archimate:Path"
         href="Path_id-1d042b1e46c94ec4b8d9018b92741df6.xml#id-1d042b1e46c94ec4b8d9018b92741df6"/>
