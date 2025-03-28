@@ -6,7 +6,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a985f4b2587e499eb58ce43e8593855e"
-      targetConnections="id-e2c02ff52d3e450ea6fae97e5dbf02c2"
       textAlignment="4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -108,7 +107,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e55aae9006444c0ea2e9c34e2c836e06"
-        targetConnections="id-8305beaa00764e86bf424ab76322d09d id-19dc36514fdd4fe48f8b441df0154a91">
+        targetConnections="id-8305beaa00764e86bf424ab76322d09d id-19dc36514fdd4fe48f8b441df0154a91 id-a34826f31c774e018f30d16fb8837bde">
       <bounds
           x="108"
           y="144"
@@ -555,15 +554,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e2c02ff52d3e450ea6fae97e5dbf02c2"
-        source="id-6c6f022f7f894240b9e071d652ef2947"
-        target="id-a985f4b2587e499eb58ce43e8593855e">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-912c66d3caa54760a09462b71feab7bf.xml#id-912c66d3caa54760a09462b71feab7bf"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bd9dceadf1954818aa5cca49f390e0a8"
         source="id-6c6f022f7f894240b9e071d652ef2947"
         target="id-810e33498aba42a48c1b290acb0f029f">
@@ -579,6 +569,15 @@
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-741f319efa444044b085c21cfa5a82b1.xml#id-741f319efa444044b085c21cfa5a82b1"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a34826f31c774e018f30d16fb8837bde"
+        source="id-6c6f022f7f894240b9e071d652ef2947"
+        target="id-e55aae9006444c0ea2e9c34e2c836e06">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-fb2c2fa58541433e94e6f7c84c838c1c.xml#id-fb2c2fa58541433e94e6f7c84c838c1c"/>
     </sourceConnections>
     <bounds
         x="456"
