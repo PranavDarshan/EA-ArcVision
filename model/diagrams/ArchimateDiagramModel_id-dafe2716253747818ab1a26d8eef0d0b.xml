@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Capabilities"
-    id="id-dafe2716253747818ab1a26d8eef0d0b">
+    id="id-dafe2716253747818ab1a26d8eef0d0b"
+    viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-07180662522f40fcb41c9b8161b2e4bb">
