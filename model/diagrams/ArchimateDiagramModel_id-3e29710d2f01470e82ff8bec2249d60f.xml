@@ -562,8 +562,8 @@
           href="FlowRelationship_id-233000afb1fb4d588689f33bd3393f30.xml#id-233000afb1fb4d588689f33bd3393f30"/>
     </sourceConnections>
     <bounds
-        x="850"
-        y="680"
+        x="835"
+        y="690"
         width="426"
         height="139"/>
     <children
@@ -691,26 +691,16 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-19f7f421354741bba5a87ec8dbd5376a"
+        id="id-bbd761ebeb39452d912acc837f47119a"
         source="id-f01afa0b86294474919bb204e8a6a54b"
         target="id-edbe48606aab40e58cd28003cdf3145c">
-      <bendpoints
-          startX="260"
-          startY="-61"
-          endX="-230"
-          endY="-15"/>
-      <bendpoints
-          startX="293"
-          startY="-62"
-          endX="-182"
-          endY="-16"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-01a6371967d348f195557cc7daa5d2c7.xml#id-01a6371967d348f195557cc7daa5d2c7"/>
     </sourceConnections>
     <bounds
-        x="840"
-        y="384"
+        x="825"
+        y="390"
         width="445"
         height="254"/>
     <children
@@ -830,7 +820,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-edbe48606aab40e58cd28003cdf3145c"
-      targetConnections="id-19f7f421354741bba5a87ec8dbd5376a"
+      targetConnections="id-bbd761ebeb39452d912acc837f47119a"
       textAlignment="4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -874,17 +864,17 @@
         source="id-edbe48606aab40e58cd28003cdf3145c"
         target="id-f01afa0b86294474919bb204e8a6a54b">
       <bendpoints
-          startX="-211"
-          startY="-1"
-          endX="279"
-          endY="-47"/>
+          startX="-116"
+          startY="113"
+          endX="365"
+          endY="99"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-6a936bf4b6b14002b8c9ebc31a868612.xml#id-6a936bf4b6b14002b8c9ebc31a868612"/>
     </sourceConnections>
     <bounds
-        x="1395"
-        y="384"
+        x="1371"
+        y="422"
         width="315"
         height="163"/>
     <children
