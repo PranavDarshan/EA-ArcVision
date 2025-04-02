@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eIDAS 2.0 (Digital Identity &amp; Trust Services)"
+    id="id-efc8e59bd9b14f358a8543804c99a99a"
+    documentation="Your Access Control Service (IAM) with OAuth 2.0 / JWT Authentication aligns with eIDAS.&#xD;&#xA;Why it matters: Ensures secure authentication mechanisms for user access and cross-border interoperability."/>

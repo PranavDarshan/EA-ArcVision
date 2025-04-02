@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="permanent data"
+    name="Permanent Data"
     id="id-09580937ea594f39bd6e2fbfe9040ca1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -375,8 +375,8 @@
           href="CompositionRelationship_id-4377226ee72f413292b172033b72ef32.xml#id-4377226ee72f413292b172033b72ef32"/>
     </sourceConnections>
     <bounds
-        x="732"
-        y="153"
+        x="900"
+        y="180"
         width="282"
         height="175"/>
     <children
@@ -463,8 +463,8 @@
           href="AssignmentRelationship_id-42c4cd8e0414403b9fe5feaa4e053a33.xml#id-42c4cd8e0414403b9fe5feaa4e053a33"/>
     </sourceConnections>
     <bounds
-        x="1056"
-        y="336"
+        x="1128"
+        y="396"
         width="505"
         height="145"/>
     <children
@@ -553,11 +553,6 @@
         id="id-0facd918d317457ca97c1d74645b89ff"
         source="id-75819c064e75476a8febf9fd8a0fcfce"
         target="id-a9ed6dfea2f8494ebbe5451640414ad6">
-      <bendpoints
-          startX="-204"
-          startY="-66"
-          endX="139"
-          endY="126"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-80206fc0b77143b0ab06bd79f681f874.xml#id-80206fc0b77143b0ab06bd79f681f874"/>
@@ -750,8 +745,8 @@
           href="RealizationRelationship_id-e92aa04934d84d308fa1c402f3152f88.xml#id-e92aa04934d84d308fa1c402f3152f88"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="610"
+        x="230"
+        y="642"
         width="252"
         height="145"/>
     <children

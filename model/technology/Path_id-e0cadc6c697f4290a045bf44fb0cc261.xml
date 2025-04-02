@@ -1,4 +1,5 @@
 <archimate:Path
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kafka"
-    id="id-e0cadc6c697f4290a045bf44fb0cc261"/>
+    name="Kafka-Based"
+    id="id-e0cadc6c697f4290a045bf44fb0cc261"
+    documentation="Apache Kafka – Great for handling high-throughput real-time data streams from sensors &amp; industrial devices.&#xD;&#xA;&#xD;&#xA;Redpanda – A Kafka-compatible alternative with lower operational overhead."/>

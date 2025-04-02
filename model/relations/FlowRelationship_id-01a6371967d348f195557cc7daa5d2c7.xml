@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Input Signals"
     id="id-01a6371967d348f195557cc7daa5d2c7">
   <source
       xsi:type="archimate:TechnologyFunction"
