@@ -734,33 +734,35 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-424daed8e6614c92bf11cd75cfeeba87">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c6295193e06c4e988310cfe6ad451a2e"
-        source="id-424daed8e6614c92bf11cd75cfeeba87"
-        target="id-dbf1b5cb1b1c4b91bdd4452751188a0e">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-e92aa04934d84d308fa1c402f3152f88.xml#id-e92aa04934d84d308fa1c402f3152f88"/>
-    </sourceConnections>
+      id="id-4a3e59a5b62340e89caddd31ec901025">
     <bounds
-        x="230"
-        y="642"
-        width="252"
-        height="145"/>
+        x="168"
+        y="684"
+        width="324"
+        height="171"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-dbf1b5cb1b1c4b91bdd4452751188a0e"
-        targetConnections="id-c6295193e06c4e988310cfe6ad451a2e">
+        id="id-9fc1113211784b4ea2fc4c879045842a">
       <bounds
-          x="72"
+          x="24"
           y="48"
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-5725e4cf21d44cc493fb4e7841d2b915.xml#id-5725e4cf21d44cc493fb4e7841d2b915"/>
+          xsi:type="archimate:TechnologyFunction"
+          href="TechnologyFunction_id-6501d1f40fb64fa6aa88a9ec678c2c30.xml#id-6501d1f40fb64fa6aa88a9ec678c2c30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-59417c01f5d04af190ec6cc701367152">
+      <bounds
+          x="168"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyFunction"
+          href="TechnologyFunction_id-13e286fc21f0438da683b969e1a25a31.xml#id-13e286fc21f0438da683b969e1a25a31"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyService"
