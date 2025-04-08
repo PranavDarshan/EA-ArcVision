@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="permanent data"
+    name="Permanent Data"
     id="id-09580937ea594f39bd6e2fbfe9040ca1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -745,8 +745,8 @@
           href="RealizationRelationship_id-e92aa04934d84d308fa1c402f3152f88.xml#id-e92aa04934d84d308fa1c402f3152f88"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="738"
+        x="230"
+        y="642"
         width="252"
         height="145"/>
     <children

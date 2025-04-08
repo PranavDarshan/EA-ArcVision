@@ -1,4 +1,5 @@
 <archimate:Path
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MQTT"
-    id="id-d275a2db184a40cdb8e1c09131fdaa5c"/>
+    name="MQTT Based"
+    id="id-d275a2db184a40cdb8e1c09131fdaa5c"
+    documentation="Eclipse Mosquitto – Lightweight, open-source MQTT broker, great for small-scale deployments.&#xD;&#xA;&#xD;&#xA;EMQX – Scalable, enterprise-ready MQTT broker with support for clustering and high availability.&#xD;&#xA;&#xD;&#xA;HiveMQ – Commercial-grade MQTT broker with enterprise security and scalability."/>
