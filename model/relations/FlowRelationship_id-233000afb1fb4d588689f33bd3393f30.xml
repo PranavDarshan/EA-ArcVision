@@ -4,8 +4,8 @@
     name="Data"
     id="id-233000afb1fb4d588689f33bd3393f30">
   <source
-      xsi:type="archimate:Node"
-      href="Node_id-f6524c1f39c7439c90c2dcd5492328e8.xml#id-f6524c1f39c7439c90c2dcd5492328e8"/>
+      xsi:type="archimate:Device"
+      href="Device_id-1819958747fd49078d48b398fd8c552c.xml#id-1819958747fd49078d48b398fd8c552c"/>
   <target
       xsi:type="archimate:TechnologyFunction"
       href="TechnologyFunction_id-6f1d405e87fb4af98d74fb5db4f9832a.xml#id-6f1d405e87fb4af98d74fb5db4f9832a"/>
