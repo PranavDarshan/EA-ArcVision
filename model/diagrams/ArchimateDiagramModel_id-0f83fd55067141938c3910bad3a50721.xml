@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technology Architecture"
-    id="id-0f83fd55067141938c3910bad3a50721"/>
+    id="id-0f83fd55067141938c3910bad3a50721">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c88ff82b41234a328f1958503ba3675c">
+    <bounds
+        x="498"
+        y="324"
+        width="475"
+        height="157"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_id-0a474e26818e4fef96329a989c01808a.xml#id-0a474e26818e4fef96329a989c01808a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
