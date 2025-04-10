@@ -279,7 +279,7 @@
       </sourceConnections>
       <bounds
           x="666"
-          y="72"
+          y="65"
           width="169"
           height="162"/>
       <children
@@ -316,10 +316,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c87b306582254c1db7a2491f17b9bbfc">
       <bounds
-          x="694"
-          y="302"
-          width="141"
-          height="27"/>
+          x="672"
+          y="238"
+          width="157"
+          height="75"/>
       <archimateElement
           xsi:type="archimate:CommunicationNetwork"
           href="CommunicationNetwork_id-36ad0bb30b4344d0b40e66be4fabba9b.xml#id-36ad0bb30b4344d0b40e66be4fabba9b"/>
