@@ -21,11 +21,6 @@
         id="id-38f2635233244380b18a2184e4ec4047"
         source="id-604e5873e932405fb5ed6a4091ec2c28"
         target="id-9e0ec4c0e93b431b892d9e0f1d2af140">
-      <bendpoints
-          startX="-282"
-          startY="-61"
-          endX="281"
-          endY="129"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-2313bea256f843d1bf1a7f13333812ba.xml#id-2313bea256f843d1bf1a7f13333812ba"/>
