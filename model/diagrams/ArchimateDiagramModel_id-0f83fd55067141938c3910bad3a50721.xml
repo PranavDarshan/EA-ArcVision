@@ -237,8 +237,8 @@
           <bounds
               x="12"
               y="48"
-              width="96"
-              height="43"/>
+              width="97"
+              height="61"/>
           <archimateElement
               xsi:type="archimate:Node"
               href="Node_id-4c805331ccff483b9f2d1f79c89806c1.xml#id-4c805331ccff483b9f2d1f79c89806c1"/>
@@ -455,8 +455,8 @@
           href="AssignmentRelationship_id-2912f794c4a647228538ffad476e05a3.xml#id-2912f794c4a647228538ffad476e05a3"/>
     </sourceConnections>
     <bounds
-        x="186"
-        y="553"
+        x="193"
+        y="660"
         width="833"
         height="292"/>
     <children
