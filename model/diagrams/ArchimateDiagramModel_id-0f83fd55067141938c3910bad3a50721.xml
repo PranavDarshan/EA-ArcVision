@@ -89,6 +89,15 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-de2a4f3de3f542c4ade1d0cf95c19cca.xml#id-de2a4f3de3f542c4ade1d0cf95c19cca"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-00508b53aced46cd862f994d306d6e64"
+          source="id-40f18b74325e49658b3d4d8b2377a1a2"
+          target="id-25307ad50369423aaa19a10028d71d98">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-719da635acd14cb8b94ddc4f56fa2e4a.xml#id-719da635acd14cb8b94ddc4f56fa2e4a"/>
+      </sourceConnections>
       <bounds
           x="9"
           y="65"
@@ -287,9 +296,18 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-2ff18fae69b048ed88455edfc00564ae.xml#id-2ff18fae69b048ed88455edfc00564ae"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c58d5a7df3cb40e1bb4171fd8c425a8b"
+          source="id-c92fd4bf11244b189755b916431d8585"
+          target="id-25307ad50369423aaa19a10028d71d98">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-2fa0087129d9465ca35e7ddce8788367.xml#id-2fa0087129d9465ca35e7ddce8788367"/>
+      </sourceConnections>
       <bounds
-          x="666"
-          y="65"
+          x="648"
+          y="204"
           width="169"
           height="162"/>
       <children
@@ -325,7 +343,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-25307ad50369423aaa19a10028d71d98"
-        targetConnections="id-797927bac1e94e3c998250910530b0ab">
+        targetConnections="id-797927bac1e94e3c998250910530b0ab id-00508b53aced46cd862f994d306d6e64 id-c58d5a7df3cb40e1bb4171fd8c425a8b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8b1dd397862d4a89a97bdb786c6ac0cd"
