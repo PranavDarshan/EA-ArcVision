@@ -1120,10 +1120,10 @@
         source="id-b80d20bc0810478c914dc073bf498260"
         target="id-f01afa0b86294474919bb204e8a6a54b">
       <bendpoints
-          startX="-3"
-          startY="73"
-          endX="-143"
-          endY="-164"/>
+          startX="36"
+          startY="53"
+          endX="-89"
+          endY="-318"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-2a5967c4dd8a4fe69605dc086e4a373d.xml#id-2a5967c4dd8a4fe69605dc086e4a373d"/>
