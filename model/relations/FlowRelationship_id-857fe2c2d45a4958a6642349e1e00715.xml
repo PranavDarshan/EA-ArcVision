@@ -6,6 +6,6 @@
       xsi:type="archimate:Device"
       href="Device_id-1819958747fd49078d48b398fd8c552c.xml#id-1819958747fd49078d48b398fd8c552c"/>
   <target
-      xsi:type="archimate:TechnologyService"
-      href="TechnologyService_id-8289777f95684832b659bff82f7150db.xml#id-8289777f95684832b659bff82f7150db"/>
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-ee727bb3cd374d1197c40cb97f1183b0.xml#id-ee727bb3cd374d1197c40cb97f1183b0"/>
 </archimate:FlowRelationship>
