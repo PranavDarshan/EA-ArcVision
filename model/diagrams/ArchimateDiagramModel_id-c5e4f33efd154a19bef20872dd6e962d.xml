@@ -594,8 +594,8 @@
       <bounds
           x="144"
           y="132"
-          width="258"
-          height="25"/>
+          width="277"
+          height="37"/>
       <archimateElement
           xsi:type="archimate:TechnologyCollaboration"
           href="TechnologyCollaboration_id-f2cc1cd5455a4ce3aef4123db336a2a1.xml#id-f2cc1cd5455a4ce3aef4123db336a2a1"/>
@@ -616,7 +616,7 @@
       </sourceConnections>
       <bounds
           x="120"
-          y="180"
+          y="192"
           width="145"
           height="25"/>
       <archimateElement
@@ -629,8 +629,8 @@
         targetConnections="id-54310e43d3344af2b9d4146e4a9e30d5 id-ee2c9e43b54743c79da628410bfd1823"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
-          x="300"
-          y="180"
+          x="324"
+          y="192"
           width="156"
           height="25"/>
       <archimateElement
