@@ -562,9 +562,9 @@
           href="AssociationRelationship_id-40961c9c50804c3d826fdb8a8ddedd66.xml#id-40961c9c50804c3d826fdb8a8ddedd66"/>
     </sourceConnections>
     <bounds
-        x="864"
-        y="1080"
-        width="426"
+        x="825"
+        y="1032"
+        width="448"
         height="139"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
