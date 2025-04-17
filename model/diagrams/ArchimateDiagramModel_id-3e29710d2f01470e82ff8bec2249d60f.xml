@@ -787,9 +787,9 @@
           id="id-17afc6f1a44e42f79f1765e1d7de3c37">
         <bounds
             x="16"
-            y="36"
+            y="32"
             width="120"
-            height="27"/>
+            height="35"/>
         <archimateElement
             xsi:type="archimate:TechnologyFunction"
             href="TechnologyFunction_id-dffa0349979b4987b4ad4db97a4e453f.xml#id-dffa0349979b4987b4ad4db97a4e453f"/>
