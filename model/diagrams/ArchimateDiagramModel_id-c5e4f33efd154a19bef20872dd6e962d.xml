@@ -128,8 +128,8 @@
             href="AssociationRelationship_id-40961c9c50804c3d826fdb8a8ddedd66.xml#id-40961c9c50804c3d826fdb8a8ddedd66"/>
       </sourceConnections>
       <bounds
-          x="36"
-          y="35"
+          x="48"
+          y="48"
           width="516"
           height="205"/>
       <children
@@ -140,8 +140,8 @@
         <bounds
             x="8"
             y="35"
-            width="120"
-            height="31"/>
+            width="125"
+            height="50"/>
         <archimateElement
             xsi:type="archimate:Device"
             href="Device_id-18ee62a861af4f388102dc5e495fc865.xml#id-18ee62a861af4f388102dc5e495fc865"/>
