@@ -453,7 +453,7 @@
     </sourceConnections>
     <bounds
         x="1360"
-        y="698"
+        y="710"
         width="192"
         height="33"/>
     <archimateElement
@@ -922,6 +922,11 @@
         id="id-fca7a88360f746a78d807e25f8217f14"
         source="id-4e5ea1335d394ac8a10deb3cd3d88d07"
         target="id-5177587f35f94430be5f1cecee7c5349">
+      <bendpoints
+          startX="2"
+          startY="-138"
+          endX="514"
+          endY="36"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-ec0f73c799eb4f1980de273598c25576.xml#id-ec0f73c799eb4f1980de273598c25576"/>
@@ -936,9 +941,9 @@
         id="id-68a66d72999e4e0b985c26df8b2f19ff"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
-          x="78"
+          x="47"
           y="53"
-          width="120"
+          width="214"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
