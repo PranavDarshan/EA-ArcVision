@@ -120,7 +120,7 @@
     <bounds
         x="348"
         y="792"
-        width="1465"
+        width="1477"
         height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -170,8 +170,8 @@
         targetConnections="id-db0904e33be54bf788d86ea33b827fdb"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
-          x="566"
-          y="55"
+          x="564"
+          y="53"
           width="156"
           height="65"/>
       <archimateElement
@@ -212,7 +212,7 @@
         targetConnections="id-8207ccf130914295b45159d99a9fdd00"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
-          x="214"
+          x="204"
           y="53"
           width="156"
           height="65"/>
@@ -269,7 +269,7 @@
     <bounds
         x="348"
         y="588"
-        width="1465"
+        width="1477"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -342,7 +342,7 @@
     <bounds
         x="348"
         y="276"
-        width="1465"
+        width="1477"
         height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -377,8 +377,8 @@
             href="CompositionRelationship_id-6e11a2744e8e43dba5bc1a83afd0dde6.xml#id-6e11a2744e8e43dba5bc1a83afd0dde6"/>
       </sourceConnections>
       <bounds
-          x="480"
-          y="33"
+          x="492"
+          y="35"
           width="313"
           height="196"/>
       <children
@@ -447,7 +447,7 @@
             href="ServingRelationship_id-2b08d29a0771452782abc1bd978fb83e.xml#id-2b08d29a0771452782abc1bd978fb83e"/>
       </sourceConnections>
       <bounds
-          x="312"
+          x="324"
           y="112"
           width="120"
           height="55"/>
@@ -478,7 +478,7 @@
             href="AggregationRelationship_id-9e32ed4023ec4eb58e55ded259c46800.xml#id-9e32ed4023ec4eb58e55ded259c46800"/>
       </sourceConnections>
       <bounds
-          x="840"
+          x="852"
           y="48"
           width="289"
           height="183"/>
@@ -529,10 +529,10 @@
         source="id-d2645ccf90934eca80c990e92b74bfe8"
         target="id-ffbc0bdc3316470081a8e58ab8fb9fa1">
       <bendpoints
-          startX="20"
-          startY="-194"
-          endX="39"
-          endY="130"/>
+          startX="18"
+          startY="-186"
+          endX="18"
+          endY="120"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-ecc46b52ea2b412297c705ec4a5ae629.xml#id-ecc46b52ea2b412297c705ec4a5ae629"/>
