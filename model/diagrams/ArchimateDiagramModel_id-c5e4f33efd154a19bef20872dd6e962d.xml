@@ -422,10 +422,10 @@
           targetConnections="id-a5cc15e3fbab46cea8eba14e2cc30c6e"
           font="1|Segoe UI|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
         <bounds
-            x="60"
-            y="60"
+            x="48"
+            y="48"
             width="120"
-            height="55"/>
+            height="73"/>
         <archimateElement
             xsi:type="archimate:Node"
             href="Node_id-01fd5843e34646dcbf73ba5d9ce0ebc7.xml#id-01fd5843e34646dcbf73ba5d9ce0ebc7"/>
@@ -762,7 +762,7 @@
             x="154"
             y="104"
             width="135"
-            height="28"/>
+            height="41"/>
         <archimateElement
             xsi:type="archimate:Requirement"
             href="Requirement_id-dfc0511c003f4ad1994d11f0f6f5ad19.xml#id-dfc0511c003f4ad1994d11f0f6f5ad19"/>
@@ -925,7 +925,7 @@
           x="36"
           y="99"
           width="120"
-          height="55"/>
+          height="94"/>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
           href="TechnologyFunction_id-6501d1f40fb64fa6aa88a9ec678c2c30.xml#id-6501d1f40fb64fa6aa88a9ec678c2c30"/>
