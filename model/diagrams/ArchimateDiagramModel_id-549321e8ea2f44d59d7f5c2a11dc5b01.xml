@@ -754,7 +754,7 @@
         id="id-21b9d3396e124289b174696609bc05c5"
         targetConnections="id-fc3cc4e29ac1459f8085d0d7f3cf4b34">
       <bounds
-          x="264"
+          x="240"
           y="36"
           width="120"
           height="60"/>
@@ -767,7 +767,7 @@
         id="id-3539a9594ad047ea8e67f6b871ed6f34"
         targetConnections="id-0320bce280064daba409e758ef1143f1">
       <bounds
-          x="468"
+          x="432"
           y="36"
           width="120"
           height="60"/>
@@ -780,7 +780,7 @@
         id="id-d5a1138d7f3c465a803c9982c82659b5"
         targetConnections="id-f5774e464f1946c082b82285fea0730e">
       <bounds
-          x="648"
+          x="624"
           y="36"
           width="120"
           height="60"/>
@@ -793,7 +793,7 @@
         id="id-9a5a7d033a604e4ea165492726264136"
         targetConnections="id-94415cb58b95443f9d0952fef1a4c2f0">
       <bounds
-          x="816"
+          x="804"
           y="36"
           width="120"
           height="60"/>
