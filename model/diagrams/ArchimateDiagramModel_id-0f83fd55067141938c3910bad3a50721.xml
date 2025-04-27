@@ -246,9 +246,9 @@
             targetConnections="id-e38562cf4957445a88e3a7e5b52e92ae">
           <bounds
               x="12"
-              y="48"
+              y="36"
               width="97"
-              height="61"/>
+              height="73"/>
           <archimateElement
               xsi:type="archimate:Node"
               href="Node_id-4c805331ccff483b9f2d1f79c89806c1.xml#id-4c805331ccff483b9f2d1f79c89806c1"/>
@@ -259,9 +259,9 @@
             targetConnections="id-a4b0f1389e4a406f8822574a94ca53b3">
           <bounds
               x="120"
-              y="46"
+              y="36"
               width="96"
-              height="63"/>
+              height="73"/>
           <archimateElement
               xsi:type="archimate:Node"
               href="Node_id-4638501093b546fda258210764b4e5d2.xml#id-4638501093b546fda258210764b4e5d2"/>
