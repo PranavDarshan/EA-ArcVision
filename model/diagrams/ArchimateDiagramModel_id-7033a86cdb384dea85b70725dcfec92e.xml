@@ -565,7 +565,7 @@
           href="FlowRelationship_id-8997d9e33d744e499421d6a1987ffa9a.xml#id-8997d9e33d744e499421d6a1987ffa9a"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="929"
         y="968"
         width="505"
         height="163"/>
@@ -686,6 +686,11 @@
         id="id-f8e146a874404bb0811d7358734a979e"
         source="id-315d468f38c94973b142fcdfad83b4c3"
         target="id-84087f82ee7c4013ba916441b3fc36aa">
+      <bendpoints
+          startX="-293"
+          startY="408"
+          endX="411"
+          endY="-25"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-6919754b2ac94e14981e6a31813aa507.xml#id-6919754b2ac94e14981e6a31813aa507"/>
