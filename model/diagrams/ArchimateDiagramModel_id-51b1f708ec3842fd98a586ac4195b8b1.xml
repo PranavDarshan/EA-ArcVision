@@ -358,7 +358,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ad08408e0a77409d8dc24325a5f269d3"
-          targetConnections="id-ef36f4b87040446d8f7c9da38b16ba45">
+          targetConnections="id-ef36f4b87040446d8f7c9da38b16ba45"
+          textPosition="1">
         <bounds
             x="24"
             y="24"
@@ -371,7 +372,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-435cfb7e734c483a9faa4d3fda28ea5e"
-          targetConnections="id-4a8f2d1fb30b4782b989922deef8ef91">
+          targetConnections="id-4a8f2d1fb30b4782b989922deef8ef91"
+          textPosition="1">
         <bounds
             x="168"
             y="24"
@@ -384,7 +386,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-166f4ba9762a4269863be09312ead3d7"
-          targetConnections="id-64da1556c7ed48c19df715b48a6958a9">
+          targetConnections="id-64da1556c7ed48c19df715b48a6958a9"
+          textPosition="1">
         <bounds
             x="24"
             y="96"
@@ -397,7 +400,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2a6242f35b284082b265fe21769a7b89"
-          targetConnections="id-1905578a3c8b4d518460cf63deadaea9">
+          targetConnections="id-1905578a3c8b4d518460cf63deadaea9"
+          textPosition="1">
         <bounds
             x="168"
             y="96"
@@ -642,7 +646,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fff6f3b42b8a47919d86864d106b2dad"
-          targetConnections="id-d638c4af89bd43e6beeac9a31c84d83e">
+          targetConnections="id-d638c4af89bd43e6beeac9a31c84d83e"
+          textPosition="1">
         <bounds
             x="12"
             y="24"
@@ -655,7 +660,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ea06f87f25ba4363baa6b8bee6504df5"
-          targetConnections="id-6cf467027cac4d71b248968622bcf7a1">
+          targetConnections="id-6cf467027cac4d71b248968622bcf7a1"
+          textPosition="1">
         <bounds
             x="156"
             y="24"
