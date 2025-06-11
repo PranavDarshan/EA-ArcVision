@@ -90,10 +90,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-95e58316afe74a30b719381bbeccd51c">
       <bounds
-          x="24"
-          y="48"
-          width="120"
-          height="55"/>
+          x="22"
+          y="57"
+          width="137"
+          height="46"/>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
           href="TechnologyFunction_id-6501d1f40fb64fa6aa88a9ec678c2c30.xml#id-6501d1f40fb64fa6aa88a9ec678c2c30"/>
@@ -102,10 +102,10 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-735f8ab9135640468a43700ddc813592">
       <bounds
-          x="168"
-          y="48"
-          width="120"
-          height="55"/>
+          x="175"
+          y="59"
+          width="111"
+          height="42"/>
       <archimateElement
           xsi:type="archimate:CommunicationNetwork"
           href="CommunicationNetwork_id-ee727bb3cd374d1197c40cb97f1183b0.xml#id-ee727bb3cd374d1197c40cb97f1183b0"/>
@@ -266,7 +266,7 @@
           x="12"
           y="132"
           width="145"
-          height="25"/>
+          height="42"/>
       <archimateElement
           xsi:type="archimate:Artifact"
           href="Artifact_id-c75d2c8b98814f6fa0762e42d26b25a0.xml#id-c75d2c8b98814f6fa0762e42d26b25a0"/>

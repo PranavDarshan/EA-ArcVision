@@ -960,7 +960,7 @@
         <bounds
             x="24"
             y="36"
-            width="120"
+            width="142"
             height="48"/>
         <archimateElement
             xsi:type="archimate:Node"
@@ -1028,7 +1028,7 @@
         <bounds
             x="108"
             y="144"
-            width="138"
+            width="166"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Node"

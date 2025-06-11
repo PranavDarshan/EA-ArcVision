@@ -47,9 +47,9 @@
         targetConnections="id-5ef2a4514542423b981a120fb05a64c5 id-207a1480f2cb4a1fb9e96c619b9b0345 id-aa38df55ce92487bbecd6c9bc5b0c9a5 id-fd38d34095a84fad868385d9a21171da"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
-          x="118"
+          x="84"
           y="36"
-          width="120"
+          width="152"
           height="52"/>
       <archimateElement
           xsi:type="archimate:Node"
@@ -856,10 +856,10 @@
         id="id-9fc1113211784b4ea2fc4c879045842a"
         font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
-          x="57"
-          y="35"
-          width="151"
-          height="95"/>
+          x="41"
+          y="41"
+          width="164"
+          height="83"/>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
           href="TechnologyFunction_id-6501d1f40fb64fa6aa88a9ec678c2c30.xml#id-6501d1f40fb64fa6aa88a9ec678c2c30"/>
