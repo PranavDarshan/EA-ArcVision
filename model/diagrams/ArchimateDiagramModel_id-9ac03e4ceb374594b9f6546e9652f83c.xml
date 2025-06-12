@@ -56,7 +56,7 @@
     </sourceConnections>
     <bounds
         x="420"
-        y="372"
+        y="453"
         width="426"
         height="180"/>
     <children
@@ -192,6 +192,16 @@
         id="id-735a821c0d0a454aacacc6b9866003b4"
         source="id-e9c7b22274f94c09a60bddf1e2b0fc6f"
         target="id-8dc51f1885cb4378862603dfcffebc1c">
+      <bendpoints
+          startX="362"
+          startY="-86"
+          endX="-207"
+          endY="158"/>
+      <bendpoints
+          startX="362"
+          startY="-185"
+          endX="-207"
+          endY="59"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-52a959cd67544e5ab76e14524dca1aaf.xml#id-52a959cd67544e5ab76e14524dca1aaf"/>
@@ -216,7 +226,7 @@
     </sourceConnections>
     <bounds
         x="420"
-        y="612"
+        y="661"
         width="426"
         height="229"/>
     <children
@@ -402,8 +412,8 @@
           href="FlowRelationship_id-ec9c3fa6179c4bd086b5940b9c5f3fa4.xml#id-ec9c3fa6179c4bd086b5940b9c5f3fa4"/>
     </sourceConnections>
     <bounds
-        x="979"
-        y="1116"
+        x="924"
+        y="1067"
         width="589"
         height="241"/>
     <children
@@ -637,8 +647,8 @@
           href="FlowRelationship_id-c1b2f69c96f145c79a76367700ebe726.xml#id-c1b2f69c96f145c79a76367700ebe726"/>
     </sourceConnections>
     <bounds
-        x="1563"
-        y="816"
+        x="1539"
+        y="817"
         width="361"
         height="241"/>
     <children
@@ -785,8 +795,8 @@
           href="TriggeringRelationship_id-da3eb6c0eb9b46c585716739c233c041.xml#id-da3eb6c0eb9b46c585716739c233c041"/>
     </sourceConnections>
     <bounds
-        x="1567"
-        y="588"
+        x="1025"
+        y="661"
         width="354"
         height="168"/>
     <children
@@ -847,8 +857,8 @@
           href="AssociationRelationship_id-49841e21a1b64e62a67e4d6633534774.xml#id-49841e21a1b64e62a67e4d6633534774"/>
     </sourceConnections>
     <bounds
-        x="1044"
-        y="456"
+        x="1046"
+        y="453"
         width="312"
         height="157"/>
     <children
