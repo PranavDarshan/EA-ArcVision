@@ -864,12 +864,14 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6a126839287f40028e6952676990ef2f"
-        targetConnections="id-0159a999e90342d38df74819a1841450">
+        targetConnections="id-0159a999e90342d38df74819a1841450"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        textPosition="1">
       <bounds
           x="24"
           y="36"
           width="120"
-          height="36"/>
+          height="45"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-338a2fedfa424b7684a382108daf59f3.xml#id-338a2fedfa424b7684a382108daf59f3"/>
@@ -877,12 +879,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-49180d482eec4b52974f264912382b0e"
-        targetConnections="id-ffd44da96661416e8e223530d516e2ac">
+        targetConnections="id-ffd44da96661416e8e223530d516e2ac"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
           x="156"
           y="36"
           width="120"
-          height="36"/>
+          height="45"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-1f996baaf7d14e1480f32ec1f5be05fb.xml#id-1f996baaf7d14e1480f32ec1f5be05fb"/>
@@ -890,12 +893,14 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-51fc3aed53714536994b5682bb9220ac"
-        targetConnections="id-764b533814e4491597101b016aff24fe">
+        targetConnections="id-764b533814e4491597101b016aff24fe"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        textPosition="1">
       <bounds
           x="24"
           y="96"
           width="120"
-          height="36"/>
+          height="45"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-f6b4238129774d16acc51612693e7582.xml#id-f6b4238129774d16acc51612693e7582"/>
@@ -903,12 +908,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c55a1fff5c014a8a911424c6d9ead02b"
-        targetConnections="id-9dc3d5ff402a4881bb30300fdee39f15">
+        targetConnections="id-9dc3d5ff402a4881bb30300fdee39f15"
+        font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
           x="156"
           y="96"
           width="120"
-          height="36"/>
+          height="45"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-d5b9ff5f153f43b88e533d8dbd04ceb1.xml#id-d5b9ff5f153f43b88e533d8dbd04ceb1"/>
