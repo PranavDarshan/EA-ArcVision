@@ -939,7 +939,7 @@
           x="96"
           y="72"
           width="156"
-          height="85"/>
+          height="97"/>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
           href="TechnologyFunction_id-6501d1f40fb64fa6aa88a9ec678c2c30.xml#id-6501d1f40fb64fa6aa88a9ec678c2c30"/>
@@ -947,7 +947,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3505dfe83d2c4b90b320523befb3845d"
-        font="1|Segoe UI|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+        font="1|Segoe UI|12.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        textPosition="1">
       <bounds
           x="300"
           y="72"
